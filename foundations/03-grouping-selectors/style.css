@@ -1,0 +1,16 @@
+.BlackBut,
+.YellowBut
+{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.BlackBut{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.YellowBut{
+    background-color: rgb(250, 200, 80);
+}
